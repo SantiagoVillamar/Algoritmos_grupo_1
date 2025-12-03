@@ -1,0 +1,10 @@
+C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\TFGAME\x64\Debug\TFGAME.vcxproj.AssemblyReference.cache
+C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\TFGAME\x64\Debug\TFGAME.Error.resources
+C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\TFGAME\x64\Debug\TFGAME.Frase1.resources
+C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\TFGAME\x64\Debug\TFGAME.Frase2.resources
+C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\TFGAME\x64\Debug\TFGAME.Game.resources
+C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\TFGAME\x64\Debug\TFGAME.Inicio.resources
+C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\TFGAME\x64\Debug\TFGAME.Juicio.resources
+C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\TFGAME\x64\Debug\TFGAME.MyForm.resources
+C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\TFGAME\x64\Debug\TFGAME.Win.resources
+C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\TFGAME\x64\Debug\TFGAME.vcxproj.GenerateResource.cache

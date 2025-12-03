@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="IMAGENES">
+      <UniqueIdentifier>{68fe1ea0-846e-4c5e-997f-62feed2c8b7b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Inicio.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="MyForm.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Frase1.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Frase2.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Win.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Error.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Juicio.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Entidad.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Jugador.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Controladora.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Inicio.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="MyForm.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Frase1.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Frase2.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Win.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Error.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Juicio.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Entidad.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Jugador.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Controladora.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\..\..\..\Downloads\IMAGENES VS\tuerca.png">
+      <Filter>IMAGENES</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\..\..\Downloads\IMAGENES VS\personaje1.png">
+      <Filter>IMAGENES</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\..\..\Downloads\IMAGENES VS\enemigoRobot.png">
+      <Filter>IMAGENES</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\..\..\Downloads\IMAGENES VS\efectos23png.png">
+      <Filter>IMAGENES</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\..\..\Downloads\IMAGENES VS\efectos2.png">
+      <Filter>IMAGENES</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\..\..\Downloads\IMAGENES VS\efectos1.png">
+      <Filter>IMAGENES</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\..\..\Downloads\IMAGENES VS\efectos.png">
+      <Filter>IMAGENES</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\..\..\Downloads\IMAGENES VS\auto.png">
+      <Filter>IMAGENES</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\..\..\Downloads\IMAGENES VS\Reflexión2.png">
+      <Filter>IMAGENES</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\..\..\Downloads\IMAGENES VS\Reflexión1.png">
+      <Filter>IMAGENES</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\..\..\Downloads\IMAGENES VS\Pantalla_inicio.jpg">
+      <Filter>IMAGENES</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\..\..\Downloads\IMAGENES VS\Mundo2.png">
+      <Filter>IMAGENES</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\..\..\Downloads\IMAGENES VS\Mundo1.png">
+      <Filter>IMAGENES</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\..\..\Downloads\IMAGENES VS\JugadorSprite.png">
+      <Filter>IMAGENES</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

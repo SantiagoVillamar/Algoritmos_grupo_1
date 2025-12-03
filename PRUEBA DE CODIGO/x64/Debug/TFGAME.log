@@ -1,0 +1,33 @@
+﻿  Frase1.cpp
+C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\TFGAME\Controladora.h(175,40): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Frase1.cpp")
+  
+C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\TFGAME\Controladora.h(175,28): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Frase1.cpp")
+  
+C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\TFGAME\MyForm.h(24,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "Frase1.cpp")
+  
+  Inicio.cpp
+C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\TFGAME\Controladora.h(175,40): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Inicio.cpp")
+  
+C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\TFGAME\Controladora.h(175,28): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Inicio.cpp")
+  
+C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\TFGAME\MyForm.h(24,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "Inicio.cpp")
+  
+  MyForm.cpp
+C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\TFGAME\Controladora.h(175,40): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\TFGAME\Controladora.h(175,28): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\TFGAME\MyForm.h(24,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+  Generando código...
+  Controladora.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TFGAME.vcxproj -> C:\Users\Villamar\source\repos\TFGAME\.vs\TFGAME\TFGAME\x64\Debug\TFGAME.exe
